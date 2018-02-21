@@ -8,5 +8,6 @@ public class Alphabet {
             System.out.println(c + " is an alphabet.");
         else
             System.out.println(c + " is not an alphabet.");
+        System.out.println("");
     }
 }
