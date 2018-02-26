@@ -1,4 +1,4 @@
-ArithmeticProgress.java
+class ArithmeticProgress
 {
 public static void main(String arg[])
 {
