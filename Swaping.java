@@ -1,5 +1,7 @@
 class Swaping
 {
+ public static void main(String arg[])
+ {
 int a=37;
 int b=34;
 System.out.println("Before swapping");
@@ -11,4 +13,5 @@ a=a-b;
 System.out.println("after swapping");
 System.out.println("a="+a);
 System.out.println("b="+b);
+}
 }
